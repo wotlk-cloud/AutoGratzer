@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Autogratzer
+## Author: Jinivus
+## Version: 1.4
+## Notes: Autograts to relevant chat on achievement
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: AG_GratsMessage,AG_GratsTimeMin,AG_GratsTimeMax,AG_GratsTimeWait,AG_GuildJoinMessageToggle,AG_Guild,AG_Say,AG_Party
+Autogratzer.lua
+Autogratzer.xml
